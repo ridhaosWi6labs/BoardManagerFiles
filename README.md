@@ -3,6 +3,7 @@ Storage for Arduino Boards Manager JSON and package files etc
 
 For more information see the [Wiki](https://github.com/stm32duino/wiki/wiki/). Mainly the [Getting Started page](https://github.com/stm32duino/wiki/wiki/Getting-Started).
 
+Storage for Arduino STM8 Board Manager JSON.
 ## Troubleshooting
 
 If you have any issue to download/use a package, you could [file an issue on Github](https://github.com/stm32duino/BoardManagerFiles/issues/new).
